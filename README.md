@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python
-jb
+A comprehensive and basic indetail understanding of basic ML with Python including application of SVM and perceptron neural network.
